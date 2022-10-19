@@ -9,9 +9,9 @@
     ],
     "originalUrl": null,
     "storePaths": [
-      "/nix/store/bwidjscmjncs1ysshzm2d4bxwnfd0q9y-captainhook-0.0.0"
+      "/nix/store/1rn8a2wam747p9k72j9qcn6hq6xlsjbl-captainhook-0.0.0"
     ],
-    "url": "git+ssh://git@github.com/bketelsen/captainhook?rev=8559a50b49446b00fbb5ea0c70b23bd720979245"
+    "url": "git+ssh://git@github.com/bketelsen/captainhook?rev=32ce23a9db5fcacaf6471c925898b0a1278ad42c"
   },
   "eval": {
     "attrPath": [
@@ -19,7 +19,7 @@
       "x86_64-linux",
       "captainhook"
     ],
-    "drvPath": "/nix/store/zygjsa1c60w4aqwxsc183sw97n4hrjw3-captainhook-0.0.0.drv",
+    "drvPath": "/nix/store/aaxa8zvaxkpig3zivi12h8rpx4vmv9gi-captainhook-0.0.0.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -52,7 +52,7 @@
         "s390x-linux",
         "x86_64-linux"
       ],
-      "position": "/nix/store/8wan7r7cmknqyn62y226dmqms0snf49s-source/pkgs/captainhook/default.nix:9",
+      "position": "/nix/store/w7pj27n9f11nh6nn8kchpdzgdr7693s1-source/pkgs/captainhook/default.nix:9",
       "unfree": false,
       "unsupported": false
     },
@@ -61,7 +61,7 @@
       "captainhook"
     ],
     "outputs": {
-      "out": "/nix/store/bwidjscmjncs1ysshzm2d4bxwnfd0q9y-captainhook-0.0.0"
+      "out": "/nix/store/1rn8a2wam747p9k72j9qcn6hq6xlsjbl-captainhook-0.0.0"
     },
     "pname": "captainhook",
     "system": "x86_64-linux",
@@ -70,11 +70,11 @@
   },
   "source": {
     "locked": {
-      "lastModified": 1666182918,
-      "narHash": "sha256-nSnIEWYOwDQkSNefPwJdRNNmEUClYkvXv3wej1tQUh4=",
+      "lastModified": 1666187460,
+      "narHash": "sha256-bKV/rpjDUK8KEC/Z8Xn1Z5yFCNidu3szQk8ky8OYrQ0=",
       "ref": "refs/heads/master",
-      "rev": "8559a50b49446b00fbb5ea0c70b23bd720979245",
-      "revCount": 117,
+      "rev": "32ce23a9db5fcacaf6471c925898b0a1278ad42c",
+      "revCount": 119,
       "type": "git",
       "url": "file:///home/debian/src/captainhook"
     },
